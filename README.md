@@ -33,7 +33,7 @@ pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 
 ```
-python3 bot.py
+python3 main.py
 ```
 
 </b>
