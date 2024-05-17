@@ -12,6 +12,21 @@
 - `STRING` Your pyrogram session string, you can get it from [VJ String Session Generator Bot](https://telegram.me/VJStringSessionBot)
 
 ---
+<details><summary><b>Deploy To VPS</summary>
+
+
+`git clone https://github.com/VJBots/VJ-Filter-Bot`
+
+Install Packages
+
+`pip3 install -U -r requirements.txt`
+
+Edit info.py with variables as given below then run bot
+
+`python3bot.py`
+
+</b>
+</details>
 
 # Usage
 
