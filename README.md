@@ -15,7 +15,7 @@
 <details><summary><b>Deploy To VPS</summary>
 
 
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
+`git clone [https://github.com/VJBots/VJ-Filter-Bot](https://github.com/mdreza-n/Save-Restricted-Content.git)`
 
 Install Packages
 
