@@ -15,7 +15,8 @@
 <details><summary><b>Deploy To VPS</summary>
 
 ```
-git clone [https://github.com/VJBots/VJ-Filter-Bot](https://github.com/mdreza-n/Save-Restricted-Content.git)
+git clone [https://github.com/mdreza-n/Save-Restricted-Content](https://github.com/mdreza-n/Save-Restricted-Content.git)
+
 ```
 
 RepoName
