@@ -16,7 +16,6 @@
 
 ```
 git clone https://github.com/mdreza-n/Save-Restricted-Content.git
-
 ```
 
 RepoName
